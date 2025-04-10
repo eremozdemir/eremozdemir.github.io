@@ -9,7 +9,7 @@ Computer Graphics is broadly defined as any use of computers to create images. A
 
 Mathematical Formulation:  
 You can view an image as a function:  
-  $$ I(x, y) = \text{color} $$  
+  $ I(x, y) = \text{color} $  
 where (x, y) are discrete pixel coordinates and color represents the pixel’s value. In a framebuffer (see below), the entire image is stored as a 2D array of these color values.
 
 ──────────────────────────────  
